@@ -9,7 +9,14 @@
     "appId": "com.openponto.desktop",
     "win": {
       "target": "nsis"
-    }
+    },
+    "publish": [
+      {
+        "provider": "github",
+        "owner": "RibasSu",
+        "repo": "openponto.com.br-wep-app"
+      }
+    ]
   },
   "devDependencies": {
     "electron": "^30.0.0",
