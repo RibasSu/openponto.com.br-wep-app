@@ -1,0 +1,74 @@
+==============================
+CONTRATO DE LICENÇA DE USUÁRIO FINAL (EULA) DO SOFTWARE OPENPONTO
+==============================
+
+IMPORTANTE – LEIA COM ATENÇÃO:
+Este Contrato de Licença de Usuário Final ("Contrato") constitui um acordo legal e vinculativo entre você ("Usuário" ou "Licenciado") e o titular dos direitos de propriedade intelectual e distribuidor do software identificado como OpenPonto ("Licenciante"). Ao instalar, copiar, executar ou de qualquer forma utilizar o software, o Usuário declara ter lido, compreendido e aceitado todos os termos e condições aqui estabelecidos. Caso não concorde, não instale nem utilize o software, devendo eliminar qualquer cópia existente em seu poder.
+
+------------------------------------------------------------
+1. OBJETO DA LICENÇA
+------------------------------------------------------------
+1.1. O Licenciante concede ao Usuário, mediante aceitação deste Contrato, uma licença limitada, não exclusiva, intransferível e revogável, para utilizar o software OpenPonto unicamente em conformidade com os termos aqui previstos.
+1.2. O Software é licenciado, não vendido. Todos os direitos de propriedade intelectual, marcas, patentes, segredos comerciais, know-how e demais direitos conexos permanecem integralmente com o Licenciante.
+
+------------------------------------------------------------
+2. LIMITAÇÕES DE USO
+------------------------------------------------------------
+2.1. O Usuário não poderá, em hipótese alguma:
+  a) modificar, traduzir, adaptar, descompilar, desmontar, realizar engenharia reversa ou de outra forma tentar derivar o código-fonte;
+  b) remover ou alterar avisos de propriedade, marcas, logotipos ou menções de direitos autorais do Software;
+  c) sublicenciar, arrendar, alugar, comercializar, revender ou transferir o Software a terceiros sem autorização expressa e por escrito do Licenciante;
+  d) utilizar o Software para fins ilícitos, fraudulentos ou em desacordo com a legislação aplicável.
+2.2. O descumprimento de qualquer disposição desta cláusula implicará na imediata rescisão da licença, sem prejuízo da adoção das medidas judiciais cabíveis.
+
+------------------------------------------------------------
+3. PROPRIEDADE INTELECTUAL
+------------------------------------------------------------
+3.1. O Software, sua arquitetura, componentes, design, interface, banco de dados e documentação são obras intelectuais protegidas por legislação nacional e tratados internacionais de direitos autorais.
+3.2. Nenhuma disposição deste Contrato confere ao Usuário qualquer direito de titularidade ou participação nos direitos de propriedade intelectual do Software.
+
+------------------------------------------------------------
+4. GARANTIA LIMITADA
+------------------------------------------------------------
+4.1. O Licenciante disponibiliza o Software "NO ESTADO EM QUE SE ENCONTRA" ("AS IS"), sem garantias de qualquer natureza, sejam expressas, implícitas, legais ou de outra ordem.
+4.2. O Licenciante não garante que o Software funcionará de forma ininterrupta, livre de erros, falhas, vulnerabilidades de segurança, bugs ou incompatibilidades.
+4.3. O Usuário reconhece que o uso do Software se dá por sua própria conta e risco.
+
+------------------------------------------------------------
+5. LIMITAÇÃO DE RESPONSABILIDADE
+------------------------------------------------------------
+5.1. Em nenhuma circunstância o Licenciante será responsável por:
+  a) perdas e danos indiretos, incidentais, especiais ou consequenciais, incluindo, mas não se limitando, à perda de dados, lucros cessantes, interrupção de negócios ou prejuízos financeiros;
+  b) qualquer dano decorrente do uso ou da incapacidade de uso do Software;
+  c) falhas ocasionadas por fatores externos, como indisponibilidade de rede, incompatibilidade de hardware, erro humano ou força maior.
+5.2. A responsabilidade máxima do Licenciante, seja contratual, civil, legal ou de qualquer outra natureza, não excederá, em nenhuma hipótese, o valor eventualmente pago pelo Usuário a título de licença do Software.
+
+------------------------------------------------------------
+6. ATUALIZAÇÕES E SUPORTE
+------------------------------------------------------------
+6.1. O Licenciante poderá, a seu exclusivo critério, disponibilizar atualizações, correções ou novas versões, sem que haja qualquer obrigação de manutenção contínua.
+6.2. O suporte técnico, quando existente, será prestado em regime limitado e não transfere ao Usuário qualquer direito adicional além do aqui previsto.
+
+------------------------------------------------------------
+7. VIGÊNCIA E RESCISÃO
+------------------------------------------------------------
+7.1. A presente licença entra em vigor na data da aceitação pelo Usuário e permanecerá válida até sua rescisão.
+7.2. O Licenciante poderá rescindir este Contrato imediatamente, sem aviso prévio, em caso de violação de quaisquer cláusulas pelo Usuário.
+7.3. Com a rescisão, o Usuário deverá cessar todo uso do Software e apagar ou destruir todas as cópias em sua posse.
+
+------------------------------------------------------------
+8. LEGISLAÇÃO APLICÁVEL E FORO
+------------------------------------------------------------
+8.1. Este Contrato será regido e interpretado de acordo com as leis vigentes no território nacional em que o Software for distribuído.
+8.2. Para dirimir quaisquer dúvidas ou controvérsias oriundas deste Contrato, fica eleito o foro da comarca do domicílio do Licenciante, com renúncia expressa a qualquer outro, por mais privilegiado que seja.
+
+------------------------------------------------------------
+9. DISPOSIÇÕES GERAIS
+------------------------------------------------------------
+9.1. A eventual tolerância de qualquer das partes quanto ao descumprimento de quaisquer condições não implicará em novação ou renúncia de direitos.
+9.2. Caso qualquer disposição deste Contrato seja considerada inválida ou inexequível, as demais permanecerão em pleno vigor.
+9.3. O presente Contrato constitui o acordo integral entre as partes, substituindo quaisquer entendimentos ou acordos prévios, verbais ou escritos, relacionados ao objeto aqui tratado.
+
+------------------------------------------------------------
+DECLARAÇÃO FINAL:
+Ao instalar, copiar ou utilizar o Software OpenPonto, o Usuário declara expressamente ter lido, compreendido e aceitado integralmente todos os termos e condições aqui estabelecidos.
