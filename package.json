@@ -1,14 +1,23 @@
 {
   "name": "openponto-app",
-  "version": "1.0.1",
+  "version": "1.0.3 ",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
   "build": {
-    "appId": "com.openponto.desktop",
+    "productName": "OpenPonto",
+    "appId": "br.com.openponto.desktop",
     "win": {
       "target": "nsis"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "license": "license.txt",
+      "installerIcon": "icon.ico",
+      "uninstallerIcon": "icon.ico",
+      "shortcutName": "OpenPonto"
     },
     "publish": [
       {
@@ -18,10 +27,13 @@
       }
     ]
   },
+  "dependencies": {
+    "electron-updater": "^6.6.2"
+  },
   "devDependencies": {
     "electron": "^30.0.0",
     "electron-builder": "^24.6.0",
-  "electron-updater": ">=6.3.0-alpha.6"
+    "electron-updater": "^6.6.2"
   },
   "keywords": [],
   "author": "",
